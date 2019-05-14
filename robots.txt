@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://aethipahx.mrkn.us/sitemap.xml
